@@ -8,7 +8,7 @@
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Dogan-mb&color=green" alt="Dogan-mb :: Profile Stats"></a>
+<img src="https://komarev.com/ghpvc/?username=Doganmbd&color=green" alt="Dogan-mb :: Profile Stats"></a>
 <a href="mailto:mbdmbilal@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-
 mbdmbilal@outlook.com-blue?style=flat&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/bilal-do%C4%9Fan/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@bilaldoğan-blue?style=flat&logo=linkedin"></a>
@@ -35,14 +35,14 @@ mbdmbilal@outlook.com-blue?style=flat&logo=gmail"></a>
 
 <h2 align="center">My GitHub Stats :bar_chart:</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dogan-mb&show_icons=true&theme=tokyonight" width="450" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dogan-mb&layout=compact&theme=tokyonight" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=Doganmbd&show_icons=true&theme=tokyonight" width="450" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doganmbd&layout=compact&theme=tokyonight" height="180">
   
 </p>
 
 
 <div align=center>
-[⏩ &nbsp; and many more](https://github.com/Doganmb?tab=repositories&q=&type=source&language=&sort=stargazers) 
+[⏩ &nbsp; and many more](https://github.com/Doganmbd?tab=repositories&q=&type=source&language=&sort=stargazers) 
 
 ```
   ____                  ____                      

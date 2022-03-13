@@ -69,7 +69,8 @@
 </div> --> 
 
 
-
+[0]: https://www.mobiler.dev/
+[1]: https://www.futag.net/
 
 
 

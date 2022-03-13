@@ -41,7 +41,7 @@
 
 
 <div align=center>
-[⏩ &nbsp; and many more](https://github.com/Doganmbd?tab=repositories&q=&type=source&language=&sort=stargazers) 
+[⏩ &nbsp; and many more]<a href="https://github.com/Doganmbd?tab=repositories"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 ```
   ____                  ____                      

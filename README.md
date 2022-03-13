@@ -41,7 +41,8 @@
 
 
 <div align=center>
-[⏩ &nbsp; and many more]
+[⏩ &nbsp; and many more](https://github.com/Doganmbd?tab=repositories&q=&type=source&language=&sort=stargazers) 
+
 ```
   ____                  ____                      
  / __ \___  ___ ___    / __/__  __ _____________  
@@ -53,8 +54,6 @@
 /___/|___/\__/_/  \_, /\__/_//_/_/_//_/\_, (_|_|_)
                  /___/                /___/       
 ```
-
-</div>
 <h1 align="center">Never Give Up</h1>
 
 

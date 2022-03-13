@@ -41,8 +41,7 @@
 
 
 <div align=center>
-[⏩ &nbsp; and many more](https://github.com/Doganmbd?tab=repositories) 
-
+<a href="https://github.com/Doganmbd?tab=repositories">[⏩ &nbsp; and many more]</a>
 ```
   ____                  ____                      
  / __ \___  ___ ___    / __/__  __ _____________  

@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy-downsized-large.gif" align="right" width="400" height="300">
+<img src="https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy-downsized-large.gif" align="right" width="400" height="270">
 
 
 ## Hi there,  I'm Bilal :blush:

@@ -11,6 +11,7 @@
 <img src="https://komarev.com/ghpvc/?username=Doganmbd&color=green" alt="Dogan-mb :: Profile Stats"></a>
 <a href="mailto:doganmbdogan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-
 doganmbdogan@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="mailto:doganmbdogan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-doganmbdogan@gmail.com-blue?style=flat&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/bilal-do%C4%9Fan/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@bilaldoğan-blue?style=flat&logo=linkedin"></a>
 
 </p>

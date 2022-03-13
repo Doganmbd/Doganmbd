@@ -41,7 +41,7 @@
 
 
 <div align=center>
-⏩ &nbsp;<a href="https://github.com/Doganmbd?tab=repositories"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+<a href="https://github.com/Doganmbd?tab=repositories">⏩ &nbsp;</a>
 
 ```
   ____                  ____                      

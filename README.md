@@ -41,7 +41,7 @@
 
 
 <div align=center>
-[⏩ &nbsp; and many more](https://github.com/Doganmbd?tab=repositories&q=&type=source&language=&sort=stargazers) 
+[⏩ &nbsp; and many more]
 
 ```
   ____                  ____                      
@@ -56,7 +56,7 @@
 ```
 
 </div>
-<h1 align="center">Don't∞Break∞the∞Chain</h1>
+<h1 align="center">Never Give Up</h1>
 
 
 <!--
@@ -68,9 +68,6 @@
 
 </div> --> 
 
-
-[0]: https://www.mobiler.dev/
-[1]: https://www.futag.net/
 
 
 

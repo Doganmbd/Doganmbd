@@ -39,6 +39,8 @@
   
 </p>
 
+ <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" /> &nbsp;Some React Projects 
+
 
 <div align=center>
 <a href="https://github.com/Doganmbd?tab=repositories">⏩ &nbsp;My Gİthub Repository</a>

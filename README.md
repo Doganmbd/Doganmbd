@@ -5,7 +5,8 @@
 ## Front-end Developer
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I+am+Bilal+Doğan;+Welcome+to+My+Profile!;Always+learning+new+things+;)](https://git.io/typing-svg)
 
-<img src="animation_500_kd7ngokt.gif" alt="react-native" width=200 height=200 align="right">
+<img src="animation_500_kd7ngokt.gif" alt="reactJS" width=200 height=200 align="right">
+<img src="https://github-readme-stats.vercel.app/api?username=frkesen&show_icons=true&theme=dark">
 
 <h3 align="center">Connect with me:</h3>
 

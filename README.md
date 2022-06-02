@@ -11,7 +11,7 @@
 <h3 align="center"> Ask me about <a href="https://github.com/Doganmbd?tab=repositories">**My projects!**</a></h3>
 
 <details align="center">
-  <summary> <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" /> &nbsp;<h3><em>Click For React Projects!</em></h3></summary>
+  <summary> <h3><em><img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" /> &nbsp;Click For React Projects!</em></h3></summary>
 
   <p><a href="https://blog-app-context.netlify.app/" target="_blank" rel="noreferrer">Blog App Context Project with Firebase</a></p>
   <p><a href="https://movie-app-firebase-project.herokuapp.com/" target="_blank" rel="noreferrer">Movie App with Firebase </a></p>

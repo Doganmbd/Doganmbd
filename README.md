@@ -5,6 +5,19 @@
 ## Front-end Developer
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I+am+Bilal+Doğan;+Welcome+to+My+Profile!;Always+learning+new+things+;)](https://github.com/Doganmbd?tab=repositories)
 
+
+<h3 align="center"> Ask me about <a href="https://github.com/Doganmbd?tab=repositories">**My projects!**</a></h3>
+
+<details align="center">
+  <summary><h3><em>Click For React Projects!</em></h3></summary>
+
+  <p><a href=" https://blog-app-context.netlify.app/" target="_blank" rel="noreferrer">Blog App Context Project with Firebase</a></p>
+  <p><a href=" https://movie-app-firebase-project.herokuapp.com/" target="_blank" rel="noreferrer">Movie App with Firebase </a></p>
+  
+</details>
+
+
+
 <img src="mbd.gif" alt="mbd" width=300 height=200 align="right">
 
 

@@ -24,18 +24,18 @@
 </details>
 
 <details align="center">
-  <summary><h3><em>Click For HTML/CSS Projects!</em></h3></summary>
+  <summary><h3><img align="left" alt="React" width="26px" src="http://lz3g.com/wp-content/uploads/html.jpg" /> &nbsp;<em><em>Click For HTML/CSS Projects!</em></h3></summary>
 
 </details>
 
 <details align="center">
-  <summary><h3><em>CoderByte Solution</em></h3></summary>
+  <summary><h3><img align="left" alt="React" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuPaU91jpXhz1YU603rEZHW8f-imDpsky8aA&usqp=CAU" /> &nbsp;<em><em>CoderByte JS Solution</em></h3></summary>
 
 </details>
 
 
 <details align="center">
-  <summary><h3><em>Python Solution</em></h3></summary>
+  <summary><h3><img align="left" alt="React" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuPaU91jpXhz1YU603rEZHW8f-imDpsky8aA&usqp=CAU" /> &nbsp;<em><em>Python Solution</em></h3></summary>
 
 </details>
   

@@ -19,8 +19,29 @@
   
 </details>
 
+<details align="center">
+  <summary><h3><em>Click For Javascript Projects!</em></h3></summary>
 
 
+</details>
+
+<details align="center">
+  <summary><h3><em>Click For HTML/CSS Projects!</em></h3></summary>
+
+</details>
+
+<details align="center">
+  <summary><h3><em>CoderByte Solution</em></h3></summary>
+
+</details>
+
+
+<details align="center">
+  <summary><h3><em>Python Solution</em></h3></summary>
+
+</details>
+  
+  
 <!-- <img src="mbd.gif" alt="mbd" width=300 height=200 align="right"> -->
 
 

@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy-downsized-large.gif" align="right" width="400" height="270">
 
-## Hi there,  I'm Bilal :blush:
-### Welcome To My Github Profile <a href="https://github.com/Doganmbd?tab=repositories"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+// ## Hi there,  I'm Bilal :blush:
+// ### Welcome To My Github Profile <a href="https://github.com/Doganmbd?tab=repositories"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 ## Front-end Developer
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I+am+Bilal+Doğan;+Welcome+to+My+Profile!;Always+learning+new+things+;)](https://github.com/Doganmbd?tab=repositories)
 
@@ -12,8 +12,8 @@
   <summary><h3><em>Click For React Projects!</em></h3></summary>
 
   <p><a href="https://blog-app-context.netlify.app/" target="_blank" rel="noreferrer">Blog App Context Project with Firebase</a></p>
-  <a href="https://movie-app-firebase-project.herokuapp.com/" target="_blank" rel="noreferrer">Movie App with Firebase </a>
-  <a href="https://001-reactproject-birthday.netlify.app/" target="_blank" rel="noreferrer">Birthday </a>
+  <p><a href="https://movie-app-firebase-project.herokuapp.com/" target="_blank" rel="noreferrer">Movie App with Firebase </a></p>
+  <p><a href="https://001-reactproject-birthday.netlify.app/" target="_blank" rel="noreferrer">Birthday </a></p>
   
 </details>
 

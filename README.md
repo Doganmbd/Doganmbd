@@ -5,7 +5,7 @@
 <!-- ### Welcome To My Github Profile <a href="https://github.com/Doganmbd?tab=repositories"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> -->
 
 ## Front-end Developer
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I+am+Mustafa+Bilal+Doğan;+Welcome+to+My+Profile!;Always+learning+new+things+;+I+will+ develop+myself+in+the+field+of+IT+for+life)](https://github.com/Doganmbd?tab=repositories)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I+am+Mustafa+Bilal+Doğan;+Welcome+to+My+Profile!;Always+learning+new+things;+I+will+ develop+myself+in+the+field+of+IT+for+life+)](https://github.com/Doganmbd?tab=repositories)
 
 
 <h3 align="center"> Ask me about <a href="https://github.com/Doganmbd?tab=repositories">**My projects!**</a></h3>

@@ -1,7 +1,7 @@
 <!-- <img src="https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy-downsized-large.gif" align="right" width="400" height="270"> -->
 
 ## Hi there,  I'm Bilal :blush:
-<h3 align="center">I'm a hard-working full-stack developer from Turkey. <br> I am an individual with a keen eye for details, <br> seeking to advance my growing tech career as a Software Developer and <br> bringing my troubleshooting skills to engineer responsive solutions along with like-minded peers.<br> Ask me about
+<h3 align="center">I'm a hard-working full-stack developer from Turkey. <br> I am an individual with a keen eye for details, <br> seeking to advance my growing tech career as a Software Developer and <br> bringing my troubleshooting skills to engineer responsive solutions along with like-minded peers.<br> Ask me about</h3>
 <!-- ### Welcome To My Github Profile <a href="https://github.com/Doganmbd?tab=repositories"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> -->
 ## Front-end Developer
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I+am+Bilal+Doğan;+Welcome+to+My+Profile!;Always+learning+new+things+;)](https://github.com/Doganmbd?tab=repositories)
@@ -20,7 +20,7 @@
 
 
 
-<img src="mbd.gif" alt="mbd" width=300 height=200 align="right">
+<!-- <img src="mbd.gif" alt="mbd" width=300 height=200 align="right"> -->
 
 
 <h3 align="center">Connect with me:</h3>

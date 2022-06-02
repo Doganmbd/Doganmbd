@@ -12,7 +12,8 @@
   <summary><h3><em>Click For React Projects!</em></h3></summary>
 
   <a href="https://blog-app-context.netlify.app/" target="_blank" rel="noreferrer">Blog App Context Project with Firebase</a>
-  <p><a href=" https://movie-app-firebase-project.herokuapp.com/" target="_blank" rel="noreferrer">Movie App with Firebase </a></p>
+  <a href="https://movie-app-firebase-project.herokuapp.com/" target="_blank" rel="noreferrer">Movie App with Firebase </a>
+  <a href="https://001-reactproject-birthday.netlify.app/" target="_blank" rel="noreferrer">Birthday </a>
   
 </details>
 
@@ -57,7 +58,7 @@
 
  <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" /> &nbsp;Some React Projects 
  
- - https://001-reactproject-birthday.netlify.app/
+ 
 
 
 <div align=center>

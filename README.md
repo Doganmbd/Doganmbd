@@ -10,7 +10,7 @@
 
 <h3 align="center"> Ask me about <a href="https://github.com/Doganmbd?tab=repositories">**My projects!**</a></h3>
 
-<details align="center">
+<!-- <details align="center">
   <summary> <h3><em><img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" /> &nbsp;Click For React Projects!</em></h3></summary>
 
   <p><a href="https://blog-app-context.netlify.app/" target="_blank" rel="noreferrer">Blog App Context Project with Firebase</a></p>
@@ -38,7 +38,7 @@
 <details align="center">
   <summary><h3><img align="left" alt="React" width="26px" src="https://previews.123rf.com/images/dirkercken/dirkercken1509/dirkercken150900020/44461736-la-solution-du-probl%C3%A8me-de-chercher-des-solutions-en-r%C3%A9solvant-les-probl%C3%A8mes-panneau-routier.jpg" /> &nbsp;<em><em>Python Solution</em></h3></summary>
 
-</details>
+</details> -->
   
   
 <!-- <img src="mbd.gif" alt="mbd" width=300 height=200 align="right"> -->

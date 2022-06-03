@@ -17,6 +17,7 @@
   <p><a href="https://movie-app-firebase-project.herokuapp.com/" target="_blank" rel="noreferrer">Movie App with Firebase </a></p>
   <p><a href="https://001-reactproject-birthday.netlify.app/" target="_blank" rel="noreferrer">Birthday </a></p>
   https://ornate-palmier-49e3d1.netlify.app yemek listesi
+https://randomuserpage.netlify.app/  randomuser
 </details>
 
 <details align="center">

@@ -19,6 +19,7 @@
   https://ornate-palmier-49e3d1.netlify.app yemek listesi
 https://randomuserpage.netlify.app/  randomuser
 https://firstreactprojectbutton.netlify.app/  button
+https://mbdcardproject.netlify.app/  card projesi
 </details>
 
 <details align="center">

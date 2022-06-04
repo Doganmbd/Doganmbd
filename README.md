@@ -18,8 +18,11 @@
   <p><a href="https://001-reactproject-birthday.netlify.app/" target="_blank" rel="noreferrer">Birthday </a></p>
   https://ornate-palmier-49e3d1.netlify.app yemek listesi
 https://randomuserpage.netlify.app/  randomuser
+https://mbdrandomuser2.netlify.app/ randomuser2
 https://firstreactprojectbutton.netlify.app/  button
 https://mbdcardproject.netlify.app/  card projesi
+https://myusefetchhook.netlify.app/  my usefecth hook
+
 </details>
 
 <details align="center">

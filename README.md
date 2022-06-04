@@ -22,6 +22,7 @@ https://mbdrandomuser2.netlify.app/ randomuser2
 https://firstreactprojectbutton.netlify.app/  button
 https://mbdcardproject.netlify.app/  card projesi
 https://myusefetchhook.netlify.app/  my usefecth hook
+https://mbdrecipeapp.netlify.app/ recipe app
 
 </details>
 

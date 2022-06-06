@@ -1,11 +1,59 @@
-<img src="https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy-downsized-large.gif" align="right" width="400" height="270">
+<!-- <img src="https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy-downsized-large.gif" align="right" width="400" height="270"> -->
 
-## Hi there,  I'm Bilal :blush:
-### Welcome To My Github Profile <a href="https://github.com/Doganmbd?tab=repositories"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+## Hi there,  I'm Bilal :blush: 
+<h3 >I'm a hard-working front-end developer from Turkey.I am an individual with a keen eye for details, <br> seeking to advance my growing tech career as a Software Developer and <br> bringing my troubleshooting skills to engineer responsive solutions along with like-minded peers.<br> </h3>
+<!-- ### Welcome To My Github Profile <a href="https://github.com/Doganmbd?tab=repositories"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> -->
+
 ## Front-end Developer
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I+am+Bilal+Doğan;+Welcome+to+My+Profile!;Always+learning+new+things+;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+I+am+Mustafa+Bilal+Doğan;+Welcome+to+My+Profile!;Always+learning+new+things;I+will+develop+myself+in+the+field+of+IT+for+life;)](https://github.com/Doganmbd?tab=repositories)
 
-<img src="mbd.gif" alt="mbd" width=300 height=200 align="right">
+
+<h3 align="center"> Ask me about <a href="https://github.com/Doganmbd?tab=repositories">**My projects!**</a></h3>
+
+<details align="center">
+  <summary> <h3><em><img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" /> &nbsp;Click For React Projects!</em></h3></summary>
+
+  <p><a href="https://blog-app-context.netlify.app/" target="_blank" rel="noreferrer">Blog App Context Project with Firebase</a></p>
+  [Project Fire blog_app Snapshot]
+  <p><a href="https://movie-app-firebase-project.herokuapp.com/" target="_blank" rel="noreferrer">Movie App with Firebase </a></p>
+  <p><a href="https://001-reactproject-birthday.netlify.app/" target="_blank" rel="noreferrer">Birthday </a></p>
+<p><a href="https://ornate-palmier-49e3d1.netlify.app" target="_blank" rel="noreferrer">food list </a></p>
+<p><a href="https://randomuserpage.netlify.app/ " target="_blank" rel="noreferrer">randomuser</a></p>
+<p><a href="https://mbdrandomuser2.netlify.app/" target="_blank" rel="noreferrer">randomuser2 </a></p>
+<p><a href="https://mbdcardproject.netlify.app/" target="_blank" rel="noreferrer">card project </a></p>
+<p><a href="https://mbdrecipeapp.netlify.app/" target="_blank" rel="noreferrer">recipe app</a></p>
+<p><a href="https://myusefetchhook.netlify.app/ " target="_blank" rel="noreferrer">usefecth hook</a></p>
+  
+
+<!-- https://firstreactprojectbutton.netlify.app/  button -->
+
+
+
+</details>
+
+<details align="center">
+  <summary><h3><img align="left" alt="React" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuPaU91jpXhz1YU603rEZHW8f-imDpsky8aA&usqp=CAU" /> &nbsp;<em>Click For Javascript Projects!</em></h3></summary>
+  <p><a href="https://agecalculatorpage.netlify.app/" target="_blank" rel="noreferrer">Age Calculator</a></p>
+</details>
+
+<details align="center">
+  <summary><h3><img align="left" alt="React" width="26px" src="http://lz3g.com/wp-content/uploads/html.jpg" /> &nbsp;<em><em>Click For HTML/CSS Projects!</em></h3></summary>
+
+</details>
+
+<details align="center">
+  <summary><h3><img align="left" alt="React" width="26px" src="https://previews.123rf.com/images/dirkercken/dirkercken1509/dirkercken150900020/44461736-la-solution-du-probl%C3%A8me-de-chercher-des-solutions-en-r%C3%A9solvant-les-probl%C3%A8mes-panneau-routier.jpg" /> &nbsp;<em><em>CoderByte JS Solution</em></h3></summary>
+
+</details>
+
+
+<details align="center">
+  <summary><h3><img align="left" alt="React" width="26px" src="https://previews.123rf.com/images/dirkercken/dirkercken1509/dirkercken150900020/44461736-la-solution-du-probl%C3%A8me-de-chercher-des-solutions-en-r%C3%A9solvant-les-probl%C3%A8mes-panneau-routier.jpg" /> &nbsp;<em><em>Python Solution</em></h3></summary>
+
+</details> -->
+  
+  
+<!-- <img src="mbd.gif" alt="mbd" width=300 height=200 align="right"> -->
 
 
 <h3 align="center">Connect with me:</h3>
@@ -42,9 +90,9 @@
   
 </p>
 
- <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" /> &nbsp;Some React Projects 
+
  
- - https://001-reactproject-birthday.netlify.app/
+ 
 
 
 <div align=center>

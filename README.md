@@ -10,19 +10,23 @@
 
 <h3 align="center"> Ask me about <a href="https://github.com/Doganmbd?tab=repositories">**My projects!**</a></h3>
 
-<!-- <details align="center">
+<details align="center">
   <summary> <h3><em><img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" /> &nbsp;Click For React Projects!</em></h3></summary>
 
   <p><a href="https://blog-app-context.netlify.app/" target="_blank" rel="noreferrer">Blog App Context Project with Firebase</a></p>
   <p><a href="https://movie-app-firebase-project.herokuapp.com/" target="_blank" rel="noreferrer">Movie App with Firebase </a></p>
   <p><a href="https://001-reactproject-birthday.netlify.app/" target="_blank" rel="noreferrer">Birthday </a></p>
-  https://ornate-palmier-49e3d1.netlify.app yemek listesi
-https://randomuserpage.netlify.app/  randomuser
-https://mbdrandomuser2.netlify.app/ randomuser2
+<p><a href="https://ornate-palmier-49e3d1.netlify.app" target="_blank" rel="noreferrer">food list </a></p>
+<p><a href="https://randomuserpage.netlify.app/ " target="_blank" rel="noreferrer">randomuser</a></p>
+<p><a href="https://mbdrandomuser2.netlify.app/" target="_blank" rel="noreferrer">randomuser2 </a></p>
+<p><a href="https://mbdcardproject.netlify.app/" target="_blank" rel="noreferrer">card project </a></p>
+<p><a href="https://mbdrecipeapp.netlify.app/" target="_blank" rel="noreferrer">recipe app</a></p>
+<p><a href="https://myusefetchhook.netlify.app/ " target="_blank" rel="noreferrer">usefecth hook</a></p>
+  
+
 https://firstreactprojectbutton.netlify.app/  button
-https://mbdcardproject.netlify.app/  card projesi
-https://myusefetchhook.netlify.app/  my usefecth hook
-https://mbdrecipeapp.netlify.app/ recipe app
+
+
 
 </details>
 

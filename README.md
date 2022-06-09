@@ -54,8 +54,7 @@
 
 </details> 
   
-  ![Project Movie_app Snapshot](movie-app.gif)
-  <img src="movie-app.gif" alt="mbd" width=300 height=200 align="right">
+  
   
 <!-- <img src="mbd.gif" alt="mbd" width=300 height=200 align="right"> -->
 

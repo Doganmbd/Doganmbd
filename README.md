@@ -46,7 +46,7 @@
 <details align="center">
   <summary><h3><img align="left" alt="React" width="26px" src="https://previews.123rf.com/images/dirkercken/dirkercken1509/dirkercken150900020/44461736-la-solution-du-probl%C3%A8me-de-chercher-des-solutions-en-r%C3%A9solvant-les-probl%C3%A8mes-panneau-routier.jpg" /> &nbsp;<em><em>CoderByte JS Solution</em></h3></summary>
     
-    <p><a href="https://github.com/Doganmbd/CoderByte/tree/main/JS" target="_blank" rel="noreferrer">Go to JS Coderbyte</a></p>
+    <a href="https://github.com/Doganmbd/CoderByte/tree/main/JS" target="_blank" rel="noreferrer">Go to JS Coderbyte</a>
 
 </details>
 

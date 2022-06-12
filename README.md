@@ -37,9 +37,9 @@
   <summary><h3><img align="left" alt="React" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuPaU91jpXhz1YU603rEZHW8f-imDpsky8aA&usqp=CAU" /> &nbsp;<em>Click For Javascript Projects!</em></h3></summary>
   <p><a href="https://agecalculatorpage.netlify.app/" target="_blank" rel="noreferrer">Age Calculator</a></p>
   <p><a href="https://doganmbd.github.io/JS---PROJECTS/002-Guess-The-Number/" target="_blank" rel="noreferrer">Guess the number</a></p>
-  <p><a href="https://agecalculatorpage.netlify.app/" target="_blank" rel="noreferrer">Age Calculator</a></p>
-  <p><a href="https://agecalculatorpage.netlify.app/" target="_blank" rel="noreferrer">Age Calculator</a></p>
-  <p><a href="https://agecalculatorpage.netlify.app/" target="_blank" rel="noreferrer">Age Calculator</a></p>
+  <p><a href="https://doganmbd.github.io/JS---PROJECTS/003-to-do-list/" target="_blank" rel="noreferrer">To do list</a></p>
+  <p><a href="https://doganmbd.github.io/JS---PROJECTS/004-Lottery-game/" target="_blank" rel="noreferrer">Lottery Game</a></p>
+  <p><a href="https://doganmbd.github.io/JS---PROJECTS/005-IOS-calculator/" target="_blank" rel="noreferrer">IOS Calculator</a></p>
   <p><a href="https://agecalculatorpage.netlify.app/" target="_blank" rel="noreferrer">Age Calculator</a></p>
   
 </details>

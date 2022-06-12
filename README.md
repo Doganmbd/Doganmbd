@@ -43,6 +43,9 @@
   <p><a href="https://doganmbd.github.io/JS---PROJECTS/009- rest countries/" target="_blank" rel="noreferrer">Rest Countries</a></p>
   <p><a href="https://agecalculatorpage.netlify.app/" target="_blank" rel="noreferrer">Age Calculator</a></p>
   
+  
+  
+  <a href="https://agecalculatorpage.netlify.app/"><img src="./age calculator.PNG" width = "100%"></a>
 </details>
 
 <details align="center">

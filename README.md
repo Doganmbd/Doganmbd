@@ -25,7 +25,8 @@
 <p><a href="https://mbdrecipeapp.netlify.app/" target="_blank" rel="noreferrer">recipe app</a></p>
 <p><a href="https://myusefetchhook.netlify.app/ " target="_blank" rel="noreferrer">usefecth hook</a></p>
   
-<img src="movie-app.gif" alt="mbd" width=200 height=200 >
+
+  <a href="https://movie-app-firebase-project.herokuapp.com/"><img src="movie-app.gif" alt="mbd" width=200 height=200 ></a>
 <!-- https://firstreactprojectbutton.netlify.app/  button -->
 
 
@@ -45,6 +46,10 @@
   
   
   
+  <a href="https://agecalculatorpage.netlify.app/"><img src="age calculator.png" width = "100%"></a>
+  <a href="https://agecalculatorpage.netlify.app/"><img src="age calculator.png" width = "100%"></a>
+  <a href="https://agecalculatorpage.netlify.app/"><img src="age calculator.png" width = "100%"></a>
+  <a href="https://agecalculatorpage.netlify.app/"><img src="age calculator.png" width = "100%"></a>
   <a href="https://agecalculatorpage.netlify.app/"><img src="age calculator.png" width = "100%"></a>
 </details>
 

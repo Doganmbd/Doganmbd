@@ -45,7 +45,7 @@
   
   
   
-  <a href="https://agecalculatorpage.netlify.app/"><img src="./age calculator.PNG" width = "100%"></a>
+  <a href="https://agecalculatorpage.netlify.app/"><img src="age calculator.png" width = "100%"></a>
 </details>
 
 <details align="center">

@@ -13,10 +13,7 @@
   <samp> Ask me about <a href="https://github.com/Doganmbd?tab=repositories">**projects!**</a></samp></h3>
 
   
-        
-        
-
-## Front-end Developer
+      
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+I+am+Mustafa+Bilal+Doğan;+Welcome+to+My+Profile!;Always+learning+new+things;I+will+develop+myself+in+the+field+of+IT+for+life;)](https://github.com/Doganmbd?tab=repositories)
 
 

@@ -7,7 +7,7 @@
 
 <h3 align="center">    <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="350px" height="200px" />
    <br />
-    <samp> <i> I'm a front-end developer from Turkey. </i> </samp> <br />
+    <samp> <i> I'm a front-end developer ... </i> </samp> <br />
     <samp>  I’m currently learning ... </samp> <br />
     <samp> <i> If you fall asleep now, you will dream. If you study now, you will live your dream. </i> </samp> <br /><br>
   </h3>

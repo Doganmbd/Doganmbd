@@ -23,7 +23,7 @@
 
 
 <h3 align="center"> <samp> Ask me about <a href="https://github.com/Doganmbd?tab=repositories">**! My projects !**</a></samp></h3>
-
+<hr/>
 <details align="center">
   <summary> <h3><em><img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" /> &nbsp;Click For React Projects!</em></h3></summary>
 
@@ -46,7 +46,7 @@
 
 
 </details>
-
+<hr/>
 
 <details align="center">
   <summary><h3><img align="left" alt="React" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuPaU91jpXhz1YU603rEZHW8f-imDpsky8aA&usqp=CAU" /> &nbsp;<em>Click For Javascript Projects!</em></h3></summary>
@@ -68,12 +68,12 @@
   <a href="https://doganmbd.github.io/JS---PROJECTS/009- rest countries/"><img src="rest countries.png" width=200 height=200></a>
 
 </details>
-
+<hr/>
 <details align="center">
   <summary><h3><img align="left" alt="React" width="26px" src="http://lz3g.com/wp-content/uploads/html.jpg" /> &nbsp;<em><em>Click For HTML/CSS Projects!</em></h3></summary>
 
 </details>
-
+<hr/>
 <details align="center">
   <summary><h3><img align="left" alt="React" width="26px" src="https://previews.123rf.com/images/dirkercken/dirkercken1509/dirkercken150900020/44461736-la-solution-du-probl%C3%A8me-de-chercher-des-solutions-en-r%C3%A9solvant-les-probl%C3%A8mes-panneau-routier.jpg" /> &nbsp;<em><em>CoderByte JS Solution</em></h3></summary>
     
@@ -82,7 +82,7 @@
 
 </details>
 
-
+<hr/>
 <details align="center">
   <summary><h3><img align="left" alt="React" width="26px" src="https://previews.123rf.com/images/dirkercken/dirkercken1509/dirkercken150900020/44461736-la-solution-du-probl%C3%A8me-de-chercher-des-solutions-en-r%C3%A9solvant-les-probl%C3%A8mes-panneau-routier.jpg" /> &nbsp;<em><em>Python Solution</em></h3></summary>
 <p><a href="https://github.com/Doganmbd/CoderByte/tree/main/PYTHON" target="_blank" rel="noreferrer">Go to Python Coderbyte</a></p>

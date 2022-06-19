@@ -1,13 +1,17 @@
 
-##  Hi there,  I'm Bilal :blush:
-<h2 align="center"> Hi there,  I'm Bilal :blush:</h2>
 
-<h3 >I'm a hard-working front-end developer from Turkey.<br> I am an individual with a keen eye for details, <br> seeking to advance my growing tech career as a Software Developer and bringing my troubleshooting skills to engineer responsive solutions along with like-minded peers.<br> </h3>
+<h2 align="center"> Hi there,  I'm Bilal :blush:</h2>
 
 <!-- ### Welcome To My Github Profile <a href="https://github.com/Doganmbd?tab=repositories"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>  -->
 
 
 <h3 align="center">    <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="350px" height="200px" />
+   <br />
+    <samp> <i> I'm a front-end developer from Turkey. </i> </samp> <br />
+    <samp>  I’m currently learning ... </samp> <br />
+    <samp> <i> If you fall asleep now, you will dream. If you study now, you will live your dream. </i> </samp> <br /><br>
+  <samp> Ask me about <a href="https://github.com/Doganmbd?tab=repositories">**projects!**</a></samp></h3>
+
   
         
         

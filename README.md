@@ -1,6 +1,8 @@
 
 
-## Hi there,  I'm Bilal :blush: 
+<h2 align="center"> ## Hi there,  I'm Bilal :blush: </h2>
+## <h2 align="center"> Hi there,  I'm Bilal :blush: </h2>
+## align="center" Hi there,  I'm Bilal :blush: 
 <h3 >I'm a hard-working front-end developer from Turkey.<br> I am an individual with a keen eye for details, <br> seeking to advance my growing tech career as a Software Developer and bringing my troubleshooting skills to engineer responsive solutions along with like-minded peers.<br> </h3>
 <!-- ### Welcome To My Github Profile <a href="https://github.com/Doganmbd?tab=repositories"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> -->
 

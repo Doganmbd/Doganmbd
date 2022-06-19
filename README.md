@@ -4,10 +4,11 @@
 <h3 >I'm a hard-working front-end developer from Turkey.<br> I am an individual with a keen eye for details, <br> seeking to advance my growing tech career as a Software Developer and bringing my troubleshooting skills to engineer responsive solutions along with like-minded peers.<br> </h3>
 <!-- ### Welcome To My Github Profile <a href="https://github.com/Doganmbd?tab=repositories"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> -->
 
-
+https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif
 <h3 align="center">    <img src="https://cdn.dribbble.com/users/1235346/screenshots/3252385/job.gif" width="100px" height="100px" />
   <h3 align="center">    <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" width="100px" height="100px" />
     <h3 align="center">    <img src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif" width="100px" height="100px" />
+      <h3 align="center">    <img src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif" width="100px" height="100px" />
 
 ## Front-end Developer
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+I+am+Mustafa+Bilal+Doğan;+Welcome+to+My+Profile!;Always+learning+new+things;I+will+develop+myself+in+the+field+of+IT+for+life;)](https://github.com/Doganmbd?tab=repositories)

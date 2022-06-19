@@ -5,7 +5,7 @@
 <!-- ### Welcome To My Github Profile <a href="https://github.com/Doganmbd?tab=repositories"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> -->
 
 
-<h3 align="center">    <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="100px" height="100px" />
+<h3 align="center">    <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="150px" height="150px" />
   <h3 align="center">    <img src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="100px" height="100px" />
     <h3 align="center">    <img src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif" width="100px" height="100px" />
       <h3 align="center">    <img src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif" width="100px" height="100px" />

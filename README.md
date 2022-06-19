@@ -89,7 +89,7 @@
 <p><a href="https://github.com/Doganmbd/ASSIGNMENT" target="_blank" rel="noreferrer">Go to Python example</a></p>
 </details> 
   
-  
+  <hr/>
   
 <!-- <img src="mbd.gif" alt="mbd" width=300 height=200 align="right"> -->
 

@@ -1,5 +1,6 @@
 
-## align="center" Hi there,  I'm Bilal :blush:
+##  Hi there,  I'm Bilal :blush:
+<h2 align="center"> Hi there,  I'm Bilal :blush:</h2>
 
 <h3 >I'm a hard-working front-end developer from Turkey.<br> I am an individual with a keen eye for details, <br> seeking to advance my growing tech career as a Software Developer and bringing my troubleshooting skills to engineer responsive solutions along with like-minded peers.<br> </h3>
 

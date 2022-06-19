@@ -14,20 +14,19 @@
   <summary> <h3><em><img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" /> &nbsp;Click For React Projects!</em></h3></summary>
 
   <p><a href="https://blog-app-context.netlify.app/" target="_blank" rel="noreferrer">Blog App Context Project with Firebase</a></p>
-  
   <p><a href="https://movie-app-firebase-project.herokuapp.com/" target="_blank" rel="noreferrer">Movie App with Firebase </a></p>
-
-  <p><a href="https://001-reactproject-birthday.netlify.app/" target="_blank" rel="noreferrer">Birthday </a></p>
+  <p><a href="https://mbdrecipeapp.netlify.app/" target="_blank" rel="noreferrer">recipe app</a></p>
 <p><a href="https://ornate-palmier-49e3d1.netlify.app" target="_blank" rel="noreferrer">food list </a></p>
 <p><a href="https://randomuserpage.netlify.app/ " target="_blank" rel="noreferrer">randomuser</a></p>
 <p><a href="https://mbdrandomuser2.netlify.app/" target="_blank" rel="noreferrer">randomuser2 </a></p>
 <p><a href="https://mbdcardproject.netlify.app/" target="_blank" rel="noreferrer">card project </a></p>
-<p><a href="https://mbdrecipeapp.netlify.app/" target="_blank" rel="noreferrer">recipe app</a></p>
+
+ <p><a href="https://001-reactproject-birthday.netlify.app/" target="_blank" rel="noreferrer">Birthday </a></p>
 <p><a href="https://myusefetchhook.netlify.app/ " target="_blank" rel="noreferrer">usefecth hook</a></p>
   
 
-  <a href="https://blog-app-context.netlify.app/"><img src="Blog-App-.gif" alt="mbd" width=200 height=200 ></a>
-  <a href="https://movie-app-firebase-project.herokuapp.com/"><img src="movie-app.gif" alt="mbd" width=200 height=200 ></a>
+<!--   <a href="https://blog-app-context.netlify.app/"><img src="Blog-App-.gif" alt="mbd" width=200 height=200 ></a>
+  <a href="https://movie-app-firebase-project.herokuapp.com/"><img src="movie-app.gif" alt="mbd" width=200 height=200 ></a> -->
 <!-- https://firstreactprojectbutton.netlify.app/  button -->
 
 
@@ -43,7 +42,7 @@
   <p><a href="https://doganmbd.github.io/JS---PROJECTS/004-Lottery-game/" target="_blank" rel="noreferrer">Lottery Game</a></p>
   <p><a href="https://doganmbd.github.io/JS---PROJECTS/005-IOS-calculator/" target="_blank" rel="noreferrer">IOS Calculator</a></p>
   <p><a href="https://doganmbd.github.io/JS---PROJECTS/009- rest countries/" target="_blank" rel="noreferrer">Rest Countries</a></p>
-  <p><a href="https://agecalculatorpage.netlify.app/" target="_blank" rel="noreferrer">Age Calculator</a></p>
+
   
   
   
@@ -53,7 +52,7 @@
   <a href="https://doganmbd.github.io/JS---PROJECTS/004-Lottery-game/"><img src="lottery game.png" width=200 height=200></a>
   <a href="https://doganmbd.github.io/JS---PROJECTS/005-IOS-calculator/"><img src="ios calculator.png" width=200 height=200></a>
   <a href="https://doganmbd.github.io/JS---PROJECTS/009- rest countries/"><img src="rest countries.png" width=200 height=200></a>
-  <a href="https://doganmbd.github.io/JS---PROJECTS/002-Guess-The-Number/"><img src="guess the number.png" width=200 height=200></a>
+
 </details>
 
 <details align="center">

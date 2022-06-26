@@ -73,7 +73,7 @@
    
   <summary><h3><img align="left" alt="React" width="26px" src="http://lz3g.com/wp-content/uploads/html.jpg" /> &nbsp;<em><em>Click For HTML/CSS Projects! </em></h3></summary>
      
-     <p><a href="https://doganmbd.github.io/HTML-CSS-PROJECT/HTML-CSS-proje-2%20GOOGLEPAGE/" target="_blank" rel="noreferrer">Google Page</a></p>
+  <p><a href="https://doganmbd.github.io/HTML-CSS-PROJECT/HTML-CSS-proje-2%20GOOGLEPAGE/" target="_blank" rel="noreferrer">Google Page</a></p>
   <p><a href="https://doganmbd.github.io/JS---PROJECTS/002-Guess-The-Number/" target="_blank" rel="noreferrer">Guess the number</a></p>
   <p><a href="https://doganmbd.github.io/JS---PROJECTS/003-to-do-list/" target="_blank" rel="noreferrer">To do list</a></p>
   <p><a href="https://doganmbd.github.io/JS---PROJECTS/004-Lottery-game/" target="_blank" rel="noreferrer">Lottery Game</a></p>

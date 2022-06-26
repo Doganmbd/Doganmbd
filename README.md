@@ -78,7 +78,7 @@
   <p><a href="https://doganmbd.github.io/HTML-CSS-PROJECT/checkout%20form/" target="_blank" rel="noreferrer">CheckOut Form</a></p>
   <p><a href="https://doganmbd.github.io/HTML-CSS-PROJECT/PROJE-%202%20-%20SURVEY%20FORM/" target="_blank" rel="noreferrer">Survey Form</a></p>
   <p><a href="https://doganmbd.github.io/HTML-CSS-PROJECT/PROJE-%203%20-%20NETFL%C4%B0X/" target="_blank" rel="noreferrer">Netflix</a></p>
-  <p><a href="https://doganmbd.github.io/JS---PROJECTS/009- rest countries/" target="_blank" rel="noreferrer">Rest Countries</a></p>
+  <p><a href="https://doganmbd.github.io/HTML-CSS-PROJECT/PROJE-%201%20-%20ilk%20basit%20form/" target="_blank" rel="noreferrer">Basic Form</a></p>
 
   
   
@@ -88,7 +88,7 @@
   <a href="https://doganmbd.github.io/HTML-CSS-PROJECT/checkout%20form/"><img src="checkout.png" width=200 height=200></a>
   <a href="https://doganmbd.github.io/HTML-CSS-PROJECT/PROJE-%202%20-%20SURVEY%20FORM/"><img src="SurveyForm.png" width=200 height=200></a>
   <a href="https://doganmbd.github.io/HTML-CSS-PROJECT/PROJE-%203%20-%20NETFL%C4%B0X/"><img src="netflix.png" width=200 height=200></a>
-  <a href="https://doganmbd.github.io/JS---PROJECTS/009- rest countries/"><img src="rest countries.png" width=200 height=200></a>
+  <a href="https://doganmbd.github.io/HTML-CSS-PROJECT/PROJE-%201%20-%20ilk%20basit%20form/"><img src="basicForm.png" width=200 height=200></a>
 
     
 

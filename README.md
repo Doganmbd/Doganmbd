@@ -76,8 +76,8 @@
   <p><a href="https://doganmbd.github.io/HTML-CSS-PROJECT/HTML-CSS-proje-2%20GOOGLEPAGE/" target="_blank" rel="noreferrer">Google Page</a></p>
   <p><a href="https://doganmbd.github.io/HTML-CSS-PROJECT/PROJE-5-PARALLAX/" target="_blank" rel="noreferrer">Parallax Page</a></p>
   <p><a href="https://doganmbd.github.io/HTML-CSS-PROJECT/checkout%20form/" target="_blank" rel="noreferrer">CheckOut Form</a></p>
-  <p><a href="https://doganmbd.github.io/JS---PROJECTS/004-Lottery-game/" target="_blank" rel="noreferrer">Lottery Game</a></p>
-  <p><a href="https://doganmbd.github.io/JS---PROJECTS/005-IOS-calculator/" target="_blank" rel="noreferrer">IOS Calculator</a></p>
+  <p><a href="https://doganmbd.github.io/HTML-CSS-PROJECT/PROJE-%202%20-%20SURVEY%20FORM/" target="_blank" rel="noreferrer">Survey Form</a></p>
+  <p><a href="https://doganmbd.github.io/HTML-CSS-PROJECT/PROJE-%203%20-%20NETFL%C4%B0X/" target="_blank" rel="noreferrer">Netflix</a></p>
   <p><a href="https://doganmbd.github.io/JS---PROJECTS/009- rest countries/" target="_blank" rel="noreferrer">Rest Countries</a></p>
 
   
@@ -86,8 +86,8 @@
   <a href="https://doganmbd.github.io/HTML-CSS-PROJECT/HTML-CSS-proje-2%20GOOGLEPAGE/"><img src="googlePage.png" width=200 height=200></a>
   <a href="https://doganmbd.github.io/HTML-CSS-PROJECT/PROJE-5-PARALLAX/"><img src="parallax.png" width=200 height=200></a>
   <a href="https://doganmbd.github.io/HTML-CSS-PROJECT/checkout%20form/"><img src="checkout.png" width=200 height=200></a>
-  <a href="https://doganmbd.github.io/JS---PROJECTS/004-Lottery-game/"><img src="lottery game.png" width=200 height=200></a>
-  <a href="https://doganmbd.github.io/JS---PROJECTS/005-IOS-calculator/"><img src="ios calculator.png" width=200 height=200></a>
+  <a href="https://doganmbd.github.io/HTML-CSS-PROJECT/PROJE-%202%20-%20SURVEY%20FORM/"><img src="SurveyForm.png" width=200 height=200></a>
+  <a href="https://doganmbd.github.io/HTML-CSS-PROJECT/PROJE-%203%20-%20NETFL%C4%B0X/"><img src="netflix.png" width=200 height=200></a>
   <a href="https://doganmbd.github.io/JS---PROJECTS/009- rest countries/"><img src="rest countries.png" width=200 height=200></a>
 
     

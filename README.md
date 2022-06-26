@@ -38,7 +38,7 @@
  <p><a href="https://001-reactproject-birthday.netlify.app/" target="_blank" rel="noreferrer">Birthday </a></p>
 <p><a href="https://myusefetchhook.netlify.app/ " target="_blank" rel="noreferrer">usefecth hook</a></p>
    
-     <a href="https://blog-app-context.netlify.app/"><img src="fireBlog.png" width=200 height=200></a>
+  <a href="https://blog-app-context.netlify.app/"><img src="fireBlog.png" width=200 height=200></a>
   <a href="https://movie-app-firebase-project.herokuapp.com/"><img src="moviApp.png" width=200 height=200></a>
   <a href="https://mbdrecipeapp.netlify.app/"><img src="recipeApp.png" width=200 height=200></a>
   <a href="https://randomuserpage.netlify.app/"><img src="RandomUser1.png" width=200 height=200></a>

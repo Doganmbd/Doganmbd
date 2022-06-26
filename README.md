@@ -70,7 +70,27 @@
 </details>
 <hr/>
 <details align="center">
-  <summary><h3><img align="left" alt="React" width="26px" src="http://lz3g.com/wp-content/uploads/html.jpg" /> &nbsp;<em><em>Click For HTML/CSS Projects!</em></h3></summary>
+   
+  <summary><h3><img align="left" alt="React" width="26px" src="http://lz3g.com/wp-content/uploads/html.jpg" /> &nbsp;<em><em>Click For HTML/CSS Projects!
+       
+     <p><a href="https://doganmbd.github.io/HTML-CSS-PROJECT/HTML-CSS-proje-2%20GOOGLEPAGE/" target="_blank" rel="noreferrer">Google Page</a></p>
+  <p><a href="https://doganmbd.github.io/JS---PROJECTS/002-Guess-The-Number/" target="_blank" rel="noreferrer">Guess the number</a></p>
+  <p><a href="https://doganmbd.github.io/JS---PROJECTS/003-to-do-list/" target="_blank" rel="noreferrer">To do list</a></p>
+  <p><a href="https://doganmbd.github.io/JS---PROJECTS/004-Lottery-game/" target="_blank" rel="noreferrer">Lottery Game</a></p>
+  <p><a href="https://doganmbd.github.io/JS---PROJECTS/005-IOS-calculator/" target="_blank" rel="noreferrer">IOS Calculator</a></p>
+  <p><a href="https://doganmbd.github.io/JS---PROJECTS/009- rest countries/" target="_blank" rel="noreferrer">Rest Countries</a></p>
+
+  
+  
+  
+  <a href="https://doganmbd.github.io/HTML-CSS-PROJECT/HTML-CSS-proje-2%20GOOGLEPAGE/"><img src="https://github.com/Doganmbd/HTML-CSS-PROJECT/blob/main/HTML-CSS-proje-2%20GOOGLEPAGE/Project_002_.png" width=200 height=200></a>
+  <a href="https://doganmbd.github.io/JS---PROJECTS/002-Guess-The-Number/"><img src="guess the number.png" width=200 height=200></a>
+  <a href="https://doganmbd.github.io/JS---PROJECTS/003-to-do-list/"><img src="to do list.png" width=200 height=200></a>
+  <a href="https://doganmbd.github.io/JS---PROJECTS/004-Lottery-game/"><img src="lottery game.png" width=200 height=200></a>
+  <a href="https://doganmbd.github.io/JS---PROJECTS/005-IOS-calculator/"><img src="ios calculator.png" width=200 height=200></a>
+  <a href="https://doganmbd.github.io/JS---PROJECTS/009- rest countries/"><img src="rest countries.png" width=200 height=200></a>
+
+     </em></h3></summary>
 
 </details>
 <hr/>

@@ -75,7 +75,7 @@
      
   <p><a href="https://doganmbd.github.io/HTML-CSS-PROJECT/HTML-CSS-proje-2%20GOOGLEPAGE/" target="_blank" rel="noreferrer">Google Page</a></p>
   <p><a href="https://doganmbd.github.io/HTML-CSS-PROJECT/PROJE-5-PARALLAX/" target="_blank" rel="noreferrer">Parallax Page</a></p>
-  <p><a href="https://doganmbd.github.io/JS---PROJECTS/003-to-do-list/" target="_blank" rel="noreferrer">To do list</a></p>
+  <p><a href="https://doganmbd.github.io/HTML-CSS-PROJECT/checkout%20form/" target="_blank" rel="noreferrer">CheckOut Form</a></p>
   <p><a href="https://doganmbd.github.io/JS---PROJECTS/004-Lottery-game/" target="_blank" rel="noreferrer">Lottery Game</a></p>
   <p><a href="https://doganmbd.github.io/JS---PROJECTS/005-IOS-calculator/" target="_blank" rel="noreferrer">IOS Calculator</a></p>
   <p><a href="https://doganmbd.github.io/JS---PROJECTS/009- rest countries/" target="_blank" rel="noreferrer">Rest Countries</a></p>
@@ -85,7 +85,7 @@
   
   <a href="https://doganmbd.github.io/HTML-CSS-PROJECT/HTML-CSS-proje-2%20GOOGLEPAGE/"><img src="googlePage.png" width=200 height=200></a>
   <a href="https://doganmbd.github.io/HTML-CSS-PROJECT/PROJE-5-PARALLAX/"><img src="parallax.png" width=200 height=200></a>
-  <a href="https://doganmbd.github.io/JS---PROJECTS/003-to-do-list/"><img src="to do list.png" width=200 height=200></a>
+  <a href="https://doganmbd.github.io/HTML-CSS-PROJECT/checkout%20form/"><img src="checkout.png" width=200 height=200></a>
   <a href="https://doganmbd.github.io/JS---PROJECTS/004-Lottery-game/"><img src="lottery game.png" width=200 height=200></a>
   <a href="https://doganmbd.github.io/JS---PROJECTS/005-IOS-calculator/"><img src="ios calculator.png" width=200 height=200></a>
   <a href="https://doganmbd.github.io/JS---PROJECTS/009- rest countries/"><img src="rest countries.png" width=200 height=200></a>

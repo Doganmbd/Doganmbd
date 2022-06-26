@@ -83,7 +83,7 @@
   
   
   
-  <a href="https://doganmbd.github.io/HTML-CSS-PROJECT/HTML-CSS-proje-2%20GOOGLEPAGE/"><img src="https://github.com/Doganmbd/HTML-CSS-PROJECT/blob/main/HTML-CSS-proje-2%20GOOGLEPAGE/Project_002_.png" width=200 height=200></a>
+  <a href="https://doganmbd.github.io/HTML-CSS-PROJECT/HTML-CSS-proje-2%20GOOGLEPAGE/"><img src="googlePage.png" width=200 height=200></a>
   <a href="https://doganmbd.github.io/JS---PROJECTS/002-Guess-The-Number/"><img src="guess the number.png" width=200 height=200></a>
   <a href="https://doganmbd.github.io/JS---PROJECTS/003-to-do-list/"><img src="to do list.png" width=200 height=200></a>
   <a href="https://doganmbd.github.io/JS---PROJECTS/004-Lottery-game/"><img src="lottery game.png" width=200 height=200></a>

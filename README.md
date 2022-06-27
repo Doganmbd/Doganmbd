@@ -14,7 +14,7 @@
    <br />
     <samp> <i> I'm a front-end developer ... </i> </samp> <br />
     <samp>  I’m currently learning ... </samp> <br />
-    <samp> <i> If you fall asleep now, you will dream. If you study now, you will live your dream. </i> </samp> <br /><br>
+    <samp> <i> If you want to live as you dream, what you have to do is very simple, just work hard. </i> </samp> <br /><br>
   </h3>
 
   

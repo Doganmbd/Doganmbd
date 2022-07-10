@@ -12,11 +12,6 @@
     <samp> <i> If you want to live as you dream, what you have to do is very simple, just work hard. </i> </samp> <br /><br>
   </h3>
 
-  
-      
-
-
-
 <h3 align="center"> <samp> Ask me about <a href="https://github.com/Doganmbd?tab=repositories">**! My projects !**</a></samp></h3>
 <hr/>
 <details align="center">

@@ -41,8 +41,6 @@
   <a href="https://movie-app-firebase-project.herokuapp.com/"><img src="movie-app.gif" alt="mbd" width=200 height=200 ></a> -->
 <!-- https://firstreactprojectbutton.netlify.app/  button -->
 
-
-
 </details>
 <hr/>
 

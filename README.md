@@ -80,9 +80,7 @@
   <a href="https://doganmbd.github.io/HTML-CSS-PROJECT/checkout%20form/"><img src="checkout.png" width=200 height=200></a>
   <a href="https://doganmbd.github.io/HTML-CSS-PROJECT/PROJE-%202%20-%20SURVEY%20FORM/"><img src="SurveyForm.png" width=200 height=200></a>
   <a href="https://doganmbd.github.io/HTML-CSS-PROJECT/PROJE-%203%20-%20NETFL%C4%B0X/"><img src="netflix.png" width=200 height=200></a>
-  <a href="https://doganmbd.github.io/HTML-CSS-PROJECT/PROJE-%201%20-%20ilk%20basit%20form/"><img src="basicForm.png" width=200 height=200></a>
-
-    
+  <a href="https://doganmbd.github.io/HTML-CSS-PROJECT/PROJE-%201%20-%20ilk%20basit%20form/"><img src="basicForm.png" width=200 height=200></a> 
 
 </details>
 <hr/>

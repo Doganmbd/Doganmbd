@@ -136,11 +136,6 @@
   
 </p>
 
-
- 
- 
-
-
 <div align=center>
 <a href="https://github.com/Doganmbd?tab=repositories">⏩ &nbsp;My Gİthub Repository</a>
 

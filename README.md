@@ -152,7 +152,6 @@
 ```
 <h1 align="center">Never Give Up</h1>
 
-
 <!--
  <div align="center">
 📊 &nbsp;**This week I spent my time on**

@@ -43,7 +43,6 @@
 </details>
 <hr/>
 
-
 <details align="center">
   <summary><h3><img align="left" alt="React" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuPaU91jpXhz1YU603rEZHW8f-imDpsky8aA&usqp=CAU" /> &nbsp;<em>Click For Javascript Projects!</em></h3></summary>
   <p><a href="https://agecalculatorpage.netlify.app/" target="_blank" rel="noreferrer">Age Calculator</a></p>

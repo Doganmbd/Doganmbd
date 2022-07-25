@@ -101,7 +101,6 @@
   
 <!-- <img src="mbd.gif" alt="mbd" width=300 height=200 align="right"> -->
 
-
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">

@@ -63,7 +63,7 @@
 <details align="center">
    
   <summary><h3><img align="left" alt="React" width="26px" src="http://lz3g.com/wp-content/uploads/html.jpg" /> &nbsp;<em><em>Click For HTML/CSS Projects! </em></h3></summary>
-     
+   
   <p><a href="https://doganmbd.github.io/HTML-CSS-PROJECT/HTML-CSS-proje-2%20GOOGLEPAGE/" target="_blank" rel="noreferrer">Google Page</a></p>
   <p><a href="https://doganmbd.github.io/HTML-CSS-PROJECT/PROJE-5-PARALLAX/" target="_blank" rel="noreferrer">Parallax Page</a></p>
   <p><a href="https://doganmbd.github.io/HTML-CSS-PROJECT/checkout%20form/" target="_blank" rel="noreferrer">CheckOut Form</a></p>
@@ -71,7 +71,6 @@
   <p><a href="https://doganmbd.github.io/HTML-CSS-PROJECT/PROJE-%203%20-%20NETFL%C4%B0X/" target="_blank" rel="noreferrer">Netflix</a></p>
   <p><a href="https://doganmbd.github.io/HTML-CSS-PROJECT/PROJE-%201%20-%20ilk%20basit%20form/" target="_blank" rel="noreferrer">Basic Form</a></p>
  
-  
   <a href="https://doganmbd.github.io/HTML-CSS-PROJECT/HTML-CSS-proje-2%20GOOGLEPAGE/"><img src="googlePage.png" width=200 height=200></a>
   <a href="https://doganmbd.github.io/HTML-CSS-PROJECT/PROJE-5-PARALLAX/"><img src="parallax.png" width=200 height=200></a>
   <a href="https://doganmbd.github.io/HTML-CSS-PROJECT/checkout%20form/"><img src="checkout.png" width=200 height=200></a>

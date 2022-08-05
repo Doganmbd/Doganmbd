@@ -1,10 +1,9 @@
-<h2 align="center"> Hi there,  I'm Bilal :blush:</h2>
+6<h2 align="center"> Hi there,  I'm Bilal :blush:</h2>
 
 <!-- ### Welcome To My Github Profile <a href="https://github.com/Doganmbd?tab=repositories"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>  -->
 
 <h3 align="center">    <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="350px" height="200px" />
-   <br />
-   
+   <br />  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+I+am+Mustafa+Bilal+Doğan;+Welcome+to+My+Profile!;Always+learning+new+things;I+will+develop+myself+in+the+field+of+IT+for+life;+I+value+teamwork+very+much;)](https://github.com/Doganmbd?tab=repositories)
    <br />
     <samp> <i> I'm a front-end developer ... </i> </samp> <br />
@@ -153,7 +152,7 @@
  <div align="center">
 📊 &nbsp;**This week I spent my time on**
 
-<!-- what![Wwakatime stats ](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Dogan-mb&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+<!-- ![Wwakatime stats ](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Dogan-mb&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 [![Doganmbd's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Doganmbd&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div> --> 

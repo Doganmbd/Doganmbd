@@ -34,7 +34,7 @@
   <a href="https://mbdrandomuser2.netlify.app/"><img src="RandomUser.png" width=200 height=200></a>
   <a href="https://mbdcardproject.netlify.app/"><img src="Card.png" width=200 height=200></a>
  
-<!-- gif -->
+<!-- gifb -->
 <!--   <a href="https://blog-app-context.netlify.app/"><img src="Blog-App-.gif" alt="mbd" width=200 height=200 ></a>
   <a href="https://movie-app-firebase-project.herokuapp.com/"><img src="movie-app.gif" alt="mbd" width=200 height=200 ></a> -->
 <!-- https://firstreactprojectbutton.netlify.app/  button -->

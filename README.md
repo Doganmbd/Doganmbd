@@ -75,6 +75,7 @@
   <p><a href="https://doganmbd.github.io/HTML-CSS-PROJECT/PROJE-%203%20-%20NETFL%C4%B0X/" target="_blank" rel="noreferrer">Netflix</a></p>
   <p><a href="https://doganmbd.github.io/HTML-CSS-PROJECT/PROJE-%201%20-%20ilk%20basit%20form/" target="_blank" rel="noreferrer">Basic Form</a></p>
  
+ 
   <a href="https://doganmbd.github.io/HTML-CSS-PROJECT/HTML-CSS-proje-2%20GOOGLEPAGE/"><img src="googlePage.png" width=200 height=200></a>
   <a href="https://doganmbd.github.io/HTML-CSS-PROJECT/PROJE-5-PARALLAX/"><img src="parallax.png" width=200 height=200></a>
   <a href="https://doganmbd.github.io/HTML-CSS-PROJECT/checkout%20form/"><img src="checkout.png" width=200 height=200></a>

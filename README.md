@@ -53,7 +53,6 @@
   <p><a href="https://doganmbd.github.io/JS---PROJECTS/005-IOS-calculator/" target="_blank" rel="noreferrer">IOS Calculator</a></p>
   <p><a href="https://doganmbd.github.io/JS---PROJECTS/009- rest countries/" target="_blank" rel="noreferrer">Rest Countries</a></p>
   
-  
   <a href="https://agecalculatorpage.netlify.app/"><img src="age calculator.png" width=200 height=200></a>
   <a href="https://doganmbd.github.io/JS---PROJECTS/002-Guess-The-Number/"><img src="guess the number.png" width=200 height=200></a>
   <a href="https://doganmbd.github.io/JS---PROJECTS/003-to-do-list/"><img src="to do list.png" width=200 height=200></a>

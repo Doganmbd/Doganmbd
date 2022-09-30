@@ -7,6 +7,7 @@
    <br />  
  
    
+   
    [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+I+am+Mustafa+Bilal+Doğan;+Welcome+to+My+Profile!;Always+learning+new+things;I+will+develop+myself+in+the+field+of+IT+for+life;+I+value+teamwork+very+much;)](https://github.com/Doganmbd?tab=repositories)
    <br />
     <samp> <i> I'm a front-end developer ... </i> </samp> <br />

@@ -38,7 +38,7 @@
   <a href="https://mbdrecipeapp.netlify.app/"><img src="recipeApp.png" width=200 height=200></a>
   <a href="https://randomuserpage.netlify.app/"><img src="RandomUser1.png" width=200 height=200></a>
   <a href="https://mbdrandomuser2.netlify.app/"><img src="RandomUser.png" width=200 height=200></a>
-  <a href="https://mbdcardproject.netlify.app/"><img src="Card.png" width=200 height=200></a>
+  <a href="https://mbd-card-language.netlify.app/"><img src="Card.png" width=200 height=200></a>
  
 <!-- gifb -->
 <!--   <a href="https://blog-app-context.netlify.app/"><img src="Blog-App-.gif" alt="mbd" width=200 height=200 ></a>

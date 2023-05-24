@@ -28,6 +28,8 @@
 <p><a href="https://randomuserpage.netlify.app/" target="_blank" rel="noreferrer">randomuser</a></p>
 <p><a href="https://mbdrandomuser2.netlify.app/" target="_blank" rel="noreferrer">randomuser2 </a></p>
 <p><a href="https://mbdcardproject.netlify.app/" target="_blank" rel="noreferrer">card project </a></p>
+   <p><a href="https://doganmbd.github.io/solution/" target="_blank" rel="noreferrer">tour-places </a></p>
+   
 
  <p><a href="https://001-reactproject-birthday.netlify.app/" target="_blank" rel="noreferrer">Birthday </a></p>
 <p><a href="https://myusefetchhook.netlify.app/ " target="_blank" rel="noreferrer">usefecth hook</a></p>
@@ -38,7 +40,7 @@
   <a href="https://mbdrecipeapp.netlify.app/"><img src="recipeApp.png" width=200 height=200></a>
   <a href="https://randomuserpage.netlify.app/"><img src="RandomUser1.png" width=200 height=200></a>
   <a href="https://mbdrandomuser2.netlify.app/"><img src="RandomUser.png" width=200 height=200></a>
-  <a href="https://mbd-card-language.netlify.app/"><img src="Card.png" width=200 height=200></a>
+  <a href="https://mbdcardproject.netlify.app/"><img src="Card.png" width=200 height=200></a>
  
 <!-- gifb -->
 <!--   <a href="https://blog-app-context.netlify.app/"><img src="Blog-App-.gif" alt="mbd" width=200 height=200 ></a>

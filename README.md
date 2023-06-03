@@ -44,7 +44,7 @@
   <a href="https://mbdcardproject.netlify.app/"><img src="Card.png" width=200 height=200></a>
    <a href="https://doganmbd.github.io/solution/"><img src="tour.png" width=200 height=200></a>
    <a href="https://mbd-task-tracker.netlify.app/"><img src="task-tracker.png" width=200 height=200></a>
-   <a href="https://mbd-task-tracker.netlify.app/"><img src="task-tracker.png" width=200 height=200></a>
+   
   
  
 <!-- gifb -->

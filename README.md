@@ -33,7 +33,7 @@
     <p><a href="https://mbd-add-tutorial-list.netlify.app/" target="_blank" rel="noreferrer" > Add Tutorial List </a></p>
 <p><a href="https://myusefetchhook.netlify.app/ " target="_blank" rel="noreferrer">usefecth hook</a></p>
     <p><a href="https://001-reactproject-birthday.netlify.app/" target="_blank" rel="noreferrer">Birthday </a></p>
-   <p><a href="https://001-reactproject-birthday.netlify.app/" target="_blank" rel="noreferrer">Birthday </a></p>
+  
     <p><a href="https://mbd-task-tracker.netlify.app/" target="_blank" rel="noreferrer">Task Tracker </a></p>
    
    

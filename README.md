@@ -22,7 +22,7 @@
   <summary> <h3><em><img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" /> &nbsp;Click For React Projects!</em></h3></summary>
 
 <p><a href="https://blog-app-context.netlify.app/" target="_blank" rel="noreferrer">Blog App Context Project with Firebase</a></p>
-<p><a href="https://movie-app-firebase-project.herokuapp.com/" target="_blank" rel="noreferrer">Movie App with Firebase </a></p>
+<p><a href="https://mbd-movie-app.netlify.app/" target="_blank" rel="noreferrer">Movie App with Firebase </a></p>
 <p><a href="https://mbdrecipeapp.netlify.app/" target="_blank" rel="noreferrer">recipe app</a></p>
 <p><a href="https://mbd-recipe-app-style-component.netlify.app/" target="_blank" rel="noreferrer">recipe app Styled component</a></p>
 <p><a href="https://mbd-e-commerce.netlify.app/" target="_blank" rel="noreferrer">E Commerce </a></p>

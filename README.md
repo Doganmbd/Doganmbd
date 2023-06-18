@@ -39,7 +39,7 @@
    
    
   <a href="https://blog-app-context.netlify.app/"><img src="fireBlog.png" width=200 height=200></a>
-  <a href="https://movie-app-firebase-project.herokuapp.com/"><img src="moviApp.png" width=200 height=200></a>
+  <a href="https://mbd-movie-app.netlify.app/"><img src="moviApp.png" width=200 height=200></a>
   <a href="https://mbdrecipeapp.netlify.app/"><img src="recipeApp.png" width=200 height=200></a>
    <a href="https://mbd-e-commerce.netlify.app/"><img src="ecommerce.png" width=200 height=200></a>
    <a href="https://mbd-task-tracker.netlify.app/"><img src="task-tracker.png" width=200 height=200></a>
